@@ -45,7 +45,7 @@ const Product = () => {
          <div className='flex flex-col px-6 pt-10 h-[20vh]'>
             <h1 className='font-bold text-3xl lg:text-4xl pt-28 lg:pt-32 text-zinc-600'>Our products</h1>
          </div>
-         <div className='grid gap-5 grid-cols-3 pt-24 lg:pt-28 px-2 lg:grid-cols-4 lg:gap-12'>
+         <div className='grid gap-5 grid-cols-2 pt-24 lg:pt-28 px-2 lg:grid-cols-4 lg:gap-12'>
             <a href="https://www.tokopedia.com/rasl/gamis-premium-dior-silk-gamis-motif-batik-ld-105-110-pb-140"><Image src={img2} alt='raslboutique'/></a>
             <a href="https://www.tokopedia.com/rasl/homewear-homedress-bordir"><Image src={img3} alt='raslboutique'/></a>
             <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-motif-kotak-fasya-pink-mn-square-monalisa"><Image src={img4} alt='raslboutique'/></a>
