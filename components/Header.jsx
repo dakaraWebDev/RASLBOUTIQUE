@@ -14,17 +14,17 @@ const Header = () => {
          <nav className='flex justify-center w-full bg-zinc-200 text-zinc-600 font-semibold'>
             <ul className='flex w-full max-w-2xl justify-between px-6'>
               <li>
-                 <Link href='/'>
+                 <Link href='/Home' passHref>
                     <p className='cursor-pointer lg:hover:text-zinc-400'>Home</p>
                  </Link>
                </li>
               <li>
-                 <Link href='/Product'>
+                 <Link href='/Product' passHref>
                     <p className='cursor-pointer lg:hover:text-zinc-400'>Product</p>
                  </Link>
                </li>
               <li>
-                 <Link href='/Contact'>
+                 <Link href='/Contact' passHref>
                     <p className='cursor-pointer lg:hover:text-zinc-400'>Contact</p>
                  </Link>
                </li>

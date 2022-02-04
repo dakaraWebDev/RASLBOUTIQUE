@@ -5,13 +5,13 @@ const Footer = () => {
    return (
       <footer className='flex flex-col justify-between items-center w-full max-w-[1440px] h-[25vh] bg-zinc-200 text-zinc-600 p-8'>
          <div className='flex flex-col justify-around w-full h-full'>
-            <Link href='/Contact'>
+            <Link href='/Contact' passHref>
                <p>Whatsapp</p>
             </Link>
-            <Link href='/Contact'>
+            <Link href='/Contact' passHref>
                <p>Instagram</p>
             </Link>
-            <Link href='/Contact'>
+            <Link href='/Products' passHref>
                <p>All Products</p>
             </Link>
             <div>

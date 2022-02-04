@@ -46,39 +46,39 @@ const Product = () => {
             <h1 className='font-bold text-3xl lg:text-4xl pt-28 lg:pt-32 text-zinc-600'>Our products</h1>
          </div>
          <div className='grid gap-5 grid-cols-3 pt-24 lg:pt-28 px-4 lg:grid-cols-4 lg:gap-12'>
-            <a href=""><Image src={img1}/></a>
-            <a href=""><Image src={img2}/></a>
-            <a href=""><Image src={img3}/></a>
-            <a href=""><Image src={img4}/></a>
-            <a href=""><Image src={img5}/></a>
-            <a href=""><Image src={img6}/></a>
-            <a href=""><Image src={img7}/></a>
-            <a href=""><Image src={img8}/></a>
-            <a href=""><Image src={img9}/></a>            
-            <a href=""><Image src={img10}/></a>
-            <a href=""><Image src={img11}/></a>
-            <a href=""><Image src={img12}/></a>
-            <a href=""><Image src={img13}/></a>
-            <a href=""><Image src={img14}/></a>
-            <a href=""><Image src={img15}/></a>
-            <a href=""><Image src={img16}/></a>
-            <a href=""><Image src={img17}/></a>
-            <a href=""><Image src={img18}/></a>
-            <a href=""><Image src={img19}/></a>
-            <a href=""><Image src={img20}/></a>
-            <a href=""><Image src={img21}/></a>
-            <a href=""><Image src={img22}/></a>
-            <a href=""><Image src={img23}/></a>
-            <a href=""><Image src={img24}/></a>
-            <a href=""><Image src={img25}/></a>
-            <a href=""><Image src={img26}/></a>
-            <a href=""><Image src={img27}/></a>
-            <a href=""><Image src={img28}/></a>
-            <a href=""><Image src={img29}/></a>
-            <a href=""><Image src={img30}/></a>
-            <a href=""><Image src={img31}/></a>
-            <a href=""><Image src={img32}/></a>
-            <a href=""><Image src={img33}/></a>
+            <a href=""><Image src={img1} alt='raslboutique'/></a>
+            <a href=""><Image src={img2} alt='raslboutique'/></a>
+            <a href=""><Image src={img3} alt='raslboutique'/></a>
+            <a href=""><Image src={img4} alt='raslboutique'/></a>
+            <a href=""><Image src={img5} alt='raslboutique'/></a>
+            <a href=""><Image src={img6} alt='raslboutique'/></a>
+            <a href=""><Image src={img7} alt='raslboutique'/></a>
+            <a href=""><Image src={img8} alt='raslboutique'/></a>
+            <a href=""><Image src={img9} alt='raslboutique'/></a>            
+            <a href=""><Image src={img10} alt='raslboutique'/></a>
+            <a href=""><Image src={img11} alt='raslboutique'/></a>
+            <a href=""><Image src={img12} alt='raslboutique'/></a>
+            <a href=""><Image src={img13} alt='raslboutique'/></a>
+            <a href=""><Image src={img14} alt='raslboutique'/></a>
+            <a href=""><Image src={img15} alt='raslboutique'/></a>
+            <a href=""><Image src={img16} alt='raslboutique'/></a>
+            <a href=""><Image src={img17} alt='raslboutique'/></a>
+            <a href=""><Image src={img18} alt='raslboutique'/></a>
+            <a href=""><Image src={img19} alt='raslboutique'/></a>
+            <a href=""><Image src={img20} alt='raslboutique'/></a>
+            <a href=""><Image src={img21} alt='raslboutique'/></a>
+            <a href=""><Image src={img22} alt='raslboutique'/></a>
+            <a href=""><Image src={img23} alt='raslboutique'/></a>
+            <a href=""><Image src={img24} alt='raslboutique'/></a>
+            <a href=""><Image src={img25} alt='raslboutique'/></a>
+            <a href=""><Image src={img26} alt='raslboutique'/></a>
+            <a href=""><Image src={img27} alt='raslboutique'/></a>
+            <a href=""><Image src={img28} alt='raslboutique'/></a>
+            <a href=""><Image src={img29} alt='raslboutique'/></a>
+            <a href=""><Image src={img30} alt='raslboutique'/></a>
+            <a href=""><Image src={img31} alt='raslboutique'/></a>
+            <a href=""><Image src={img32} alt='raslboutique'/></a>
+            <a href=""><Image src={img33} alt='raslboutique'/></a>
          </div>
       </Layout>
    )
