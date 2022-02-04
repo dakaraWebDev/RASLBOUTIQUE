@@ -1,7 +1,5 @@
-import Layout from "../components/Layout.jsx"
-import Logo from '../public/rasllogo.png'
-import Image from "next/image"
 import Head from 'next/head'
+import Layout from "../components/Layout.jsx"
 import favicon from '../public/icon.png'
 import Link from "next/link"
 
