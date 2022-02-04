@@ -9,7 +9,7 @@ import img6 from '../product-images/5ac08c9d-3db0-45d2-881a-5dda13190cd3.JPG'
 import img7 from '../product-images/6fb1b263-2f75-4ea8-af9f-47813f4e0fa3.JPG'
 import img8 from '../product-images/7ee62180-1e05-4141-b807-82c3bea40663.JPG'
 import img9 from '../product-images/8ffeeb16-7390-4fb9-86f8-4fe4f7af0507.JPG'
-import img10 from '../product-images/17d8585c-8b0c-4cce-a917-fb3d131379e3.JPG'
+// import img10 from '../product-images/17d8585c-8b0c-4cce-a917-fb3d131379e3.JPG'
 import img11 from '../product-images/22ab88a5-337e-4166-bf44-4f304d2ca084.JPG'
 import img12 from '../product-images/37a9f10e-4959-4ca9-95f3-127feac15a6e.JPG'
 import img13 from '../product-images/57a865fb-083b-4a97-8bf4-2a11e92322b4.JPG'
@@ -46,39 +46,31 @@ const Product = () => {
             <h1 className='font-bold text-3xl lg:text-4xl pt-28 lg:pt-32 text-zinc-600'>Our products</h1>
          </div>
          <div className='grid gap-5 grid-cols-3 pt-24 lg:pt-28 px-4 lg:grid-cols-4 lg:gap-12'>
-            <a href=""><Image src={img1} alt='raslboutique'/></a>
-            <a href=""><Image src={img2} alt='raslboutique'/></a>
-            <a href=""><Image src={img3} alt='raslboutique'/></a>
-            <a href=""><Image src={img4} alt='raslboutique'/></a>
-            <a href=""><Image src={img5} alt='raslboutique'/></a>
-            <a href=""><Image src={img6} alt='raslboutique'/></a>
-            <a href=""><Image src={img7} alt='raslboutique'/></a>
-            <a href=""><Image src={img8} alt='raslboutique'/></a>
-            <a href=""><Image src={img9} alt='raslboutique'/></a>            
-            <a href=""><Image src={img10} alt='raslboutique'/></a>
-            <a href=""><Image src={img11} alt='raslboutique'/></a>
-            <a href=""><Image src={img12} alt='raslboutique'/></a>
-            <a href=""><Image src={img13} alt='raslboutique'/></a>
-            <a href=""><Image src={img14} alt='raslboutique'/></a>
-            <a href=""><Image src={img15} alt='raslboutique'/></a>
-            <a href=""><Image src={img16} alt='raslboutique'/></a>
-            <a href=""><Image src={img17} alt='raslboutique'/></a>
-            <a href=""><Image src={img18} alt='raslboutique'/></a>
-            <a href=""><Image src={img19} alt='raslboutique'/></a>
-            <a href=""><Image src={img20} alt='raslboutique'/></a>
-            <a href=""><Image src={img21} alt='raslboutique'/></a>
-            <a href=""><Image src={img22} alt='raslboutique'/></a>
-            <a href=""><Image src={img23} alt='raslboutique'/></a>
-            <a href=""><Image src={img24} alt='raslboutique'/></a>
-            <a href=""><Image src={img25} alt='raslboutique'/></a>
-            <a href=""><Image src={img26} alt='raslboutique'/></a>
-            <a href=""><Image src={img27} alt='raslboutique'/></a>
-            <a href=""><Image src={img28} alt='raslboutique'/></a>
-            <a href=""><Image src={img29} alt='raslboutique'/></a>
-            <a href=""><Image src={img30} alt='raslboutique'/></a>
-            <a href=""><Image src={img31} alt='raslboutique'/></a>
-            <a href=""><Image src={img32} alt='raslboutique'/></a>
-            <a href=""><Image src={img33} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-dior-silk-gamis-motif-batik-ld-105-110-pb-140"><Image src={img2} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/homewear-homedress-bordir"><Image src={img3} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-motif-kotak-fasya-pink-mn-square-monalisa"><Image src={img4} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-kotak-biru-gamis-monalisa-mn-square-soft-blue-biru-muda"><Image src={img5} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/mini-french-khimar"><Image src={img6} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-pesta-mewah-bahan-jaguar-gamis-pink"><Image src={img7} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-alesha"><Image src={img8} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-dior-silk-gamis-motif-batik-ld-105-110-pb-140"><Image src={img9} alt='raslboutique'/></a>            
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-kotak-biru-gamis-monalisa-mn-square-soft-blue-biru-muda"><Image src={img12} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-pesta-mewah-bahan-jaguar-gamis-pink"><Image src={img13} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/homewear-homedress-bordir"><Image src={img14} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-ceruty-ceruty-luxury-gamis-hijau-mint"><Image src={img15} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-dior-silk-gamis-motif-batik-ld-105-110-pb-140"><Image src={img17} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-kotak-biru-gamis-monalisa-mn-square-soft-blue-biru-muda"><Image src={img18} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-kotak-biru-gamis-monalisa-mn-square-soft-blue-biru-muda"><Image src={img20} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/homewear-homedress-bordir"><Image src={img22} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/homewear-homedress-bordir"><Image src={img23} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-pesta-mewah-bahan-jaguar-gamis-pink"><Image src={img24} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-ceruty-ceruty-luxury-gamis-hijau-mint"><Image src={img25} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-motif-kotak-fasya-pink-mn-square-monalisa"><Image src={img27} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-alesha"><Image src={img28} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/khimar-long-long-khimar-khimar-ceruty-khimar-bigsize"><Image src={img29} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-premium-gamis-ceruty-ceruty-luxury-gamis-hijau-mint"><Image src={img30} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-alesha"><Image src={img32} alt='raslboutique'/></a>
+            <a href="https://www.tokopedia.com/rasl/gamis-alesha"><Image src={img33} alt='raslboutique'/></a>
          </div>
       </Layout>
    )
