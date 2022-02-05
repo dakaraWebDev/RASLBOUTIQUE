@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="../public/favicon.ico" />
       </Head>
       <div className='overflow-x-hidden'>
-        <div className="h-[110vh] w-full flex flex-col lg:justify-center lg:items-end lg:px-24 px-5 justify-center">
+        <div className="h-screen w-full flex flex-col lg:justify-center lg:items-end lg:px-24 px-5 justify-center">
           <h1 className="lg:text-[4em] font-bold text-5xl text-zinc-600 z-20">Welcome to</h1>
           <h1 className="lg:text-[4em] font-bold text-5xl text-zinc-600 z-20">Raslboutique website.</h1>
           <br />
